@@ -3,7 +3,7 @@ public class multiplicationtable{
     public static void main(String[] args){
         
         Scanner sc= new Scanner(System.in);
-        System.out.print23("what multiples u require?");
+        System.out.println("what multiples u require?");
         int number = sc.nextInt();
         int i=1;
         
